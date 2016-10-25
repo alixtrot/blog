@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2016-10-25-Oh hi, I didn''t see you there'
+title: 2016-10-25-Oh-hi.markdown
 date: {}
 published: true
 ---

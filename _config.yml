@@ -1,13 +1,22 @@
 title: Long Haul
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
+<<<<<<< HEAD
 url: https://alixtrot.github.io/blog/
+=======
+url:
+>>>>>>> master
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
+<<<<<<< HEAD
 markdown: redcarpet
 highlighter: pygments
+=======
+markdown: kramdown
+highlighter: rouge
+>>>>>>> master
 gems: [jekyll-paginate]
 paginate: 5
 

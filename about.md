@@ -1,25 +1,11 @@
 ---
 layout: default
 title: About Long Haul
+published: true
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
-  		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
+	<h1 class="pageTitle">About</h1>
+	<p class="intro">I am the executive director of [The Engine Room](www.theengineroom.org) - in a nutshell, we work together to help you use data and tech to change your world. Currently, I'm on leave, burrowing into a small corner of Open Society Foundations to learn more about the challenges funders face when they encounter data and tech in the work they support. This blog will host thoughts on the use of data and technology for social change; the curious journies of continuous learning; the nebulous art of managing remote teams; and the weird and intriguing strewn by others around the internet. Mostly, it's for me, to remind myself that taking the extra time to fully form thoughts is worth it in the long run. That said, I hope you find it interesting. Feel free to [drop a line](mailto: alix@trot.io) if you feel so inclined.</p>
+
 </div>

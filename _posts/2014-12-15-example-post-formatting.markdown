@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 2016-10-25-Oh-hi.markdown
-date: {}
+date:
+  'Mon Oct 24 2016 20:00:00 GMT-0400 (EDT)': null
 published: false
 ---
 

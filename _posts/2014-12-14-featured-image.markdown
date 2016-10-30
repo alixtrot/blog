@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 30-10-2016-New-blog
+title: 2016-10-30-New-blog
 date:
   30-10-2016: null
 image: touring.jpg

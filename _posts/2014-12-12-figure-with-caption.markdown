@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Figure With A Caption"
-date:   2014-12-12
+title: Figure With A Caption
+date: 2014-12-12T00:00:00.000Z
+published: false
 ---
 
 

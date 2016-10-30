@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 30-10-2016-New-blog
-date: {}
+date:
+  30-10-2016: null
 image: touring.jpg
 published: true
 ---

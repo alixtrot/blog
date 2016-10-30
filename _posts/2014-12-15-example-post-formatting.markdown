@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2016-10-25-Oh-hi.markdown
-date: {}
+date: 2014-12-15
 published: true
 ---
 
@@ -44,4 +44,3 @@ Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur pu
   <dt>Milk</dt>
   <dd>White cold drink</dd>
 </dl>
-

@@ -1,18 +1,19 @@
 ---
 layout: post
-title:  "Featured Image"
-date:   2014-12-14
+title: 25-10-2016-New blog!
+date: {}
 image: touring.jpg
+published: false
 ---
+##This is partially cross-posted from Then Engine Room blog##
 
-<p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
 
-Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.
+<p>Over the past several years, The Engine Room has worked with a variety of philanthropies to better understand the changing landscape of data and technology for social change. We think that support organisations like The Engine Room are well placed to inform philanthropy about the data and technology needs of the social sector. We see our own funders as peers with whom we work to better understand how data and technology can increase impact in the social sector, without causing harm or exacerbating inequalities in existing power relationships.
 
-Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.
+This year, I am happy to report, I will be taking some time to work more closely with Open Society Foundations. The Information Program of the Foundation has a diverse portfolio focused on both the uptake of data and technology tools by the social sector and addressing the social implications of the rise of data and technology in society. The Information Program team at OSF has been a key ally since the founding of The Engine Room. We share several goals, the most salient being the responsible data agenda and an interest in developing a vibrant and nuanced data and technology ecosystem for the social sector.
 
-Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.
+My work with the Information Program will be structured as a fellowship, running from November 2016 to April 2017, and will focus on three main areas of investigation:
 
-Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.
-
-Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.
+- How Open Society Foundations can build internal systems to support its diverse program teams and staff to support the effective use of data and technology to increase impact
+- What is an effective balance between experimentation in emerging technology and necessary infrastructure of data and technology support ecosystem for the social sector
+- Professional development in data and technology that can empower substance experts to incorporate data and technology into their strategies

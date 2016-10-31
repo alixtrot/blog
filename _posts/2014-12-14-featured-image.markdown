@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2016-10-30-Featured-image
-date: 
+date: 2016-10-30
 image: touring.jpg
 published: false
 ---

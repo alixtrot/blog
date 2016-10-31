@@ -2,7 +2,7 @@
 layout: post
 title: Figure With A Caption
 date: 2014-10-20
-published: true
+published: false
 ---
 
 

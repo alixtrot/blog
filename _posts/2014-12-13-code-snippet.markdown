@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Post With A Code Snippet
-date: {}
+date: 2012-12-12T00:00:00.000Z
 published: false
 ---
 

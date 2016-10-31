@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 2016-10-30-New-blog
-date: 2016-10-30T00:00:00.000Z
+title: 2016-10-30-Featured-image
+date: {}
 image: touring.jpg
-published: true
+published: false
 ---
 ##This is partially cross-posted from <a href="https://www.theengineroom.org/a-temporary-transfer-data-and-technology-fellowship-at-open-society-foundations/">The Engine Room blog</a>##
 

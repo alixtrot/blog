@@ -12,3 +12,4 @@ Like:
 - I hate email now! Sorry Zara for my not understanding why people hate email. My hatred might be partly because I am using two computers and said IT department makes it impossible to use a non-OSF email client for email. I think it's mostly that Thunderbird is the email client I choose to hate, and an Outlook inbox feels like the surface of Mars.
 - Institutions having mostly women middle management and almost exclusively male leadership is a thing.
 
+

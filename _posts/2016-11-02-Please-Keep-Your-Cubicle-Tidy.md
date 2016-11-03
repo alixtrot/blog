@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 
 It's been a week since I started at the first 'institution' I've ever spent time in. And in a week I've learned a lot. 

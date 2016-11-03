@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Its been a week since I started at the first 'institution' I've ever spent time in. And in a week I've learned a lot. 
@@ -10,4 +10,3 @@ Like:
 -Structured onboarding is sensible, but being on the receiving end of it reminds me that information cascades aren't very unhelpful. I am also reminded of a feeling I've had since childhood: instructions are overrated. 
 -I hate email now! Sorry Zara for my not understanding why people hate email. My hatred might be partly because I am using two computers and said IT department makes it impossible to use a non-OSF email client for email. I think it's mostly that Thunderbird is the email client I choose to hate, and an Outlook inbox feels like the surface of Mars.
 -Institutions having mostly women middle management and almost exclusively male leadership is a thing.
-

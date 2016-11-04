@@ -1,3 +1,7 @@
+---
+published: true
+layout: post
+---
 This week I have been at a conference at the Harvard Kennedy School called 'The Future of Human RIghts: Technology and Fact-Finding in the 21st Century.' Seeing a series of presentations about the cutting edge of a variety of technology and data tools and practices as they can be applied to human rights documentation, I have several waves of sometimes conflicting perspectives. (It's not over yet, but this is starting to get too long :/) 
 
 **Choice and resources**
@@ -22,19 +26,4 @@ The focus of the conference was on a convergence of fields - forensic science, r
 
 Using an example from the presentations of what's next: in the near future, it will be possible to acquire on-demand, real-time, low cost satellite imagery. While my mind is aflutter with potential positive uses of that emerging resource, the corporate and political interests that can be served by these tools are terrifying. 
 
-As an advocacy community, working on rights issues, it is important that we are able to talk openly and practically about what methods are appropriate and how we can shape the use of technology for social good in ways that align with our principles and aims. It seems that the doers are less interested in advocating for methods, even though they are the ones that are most capable of understanding the practicalities. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+As an advocacy community, working on rights issues, it is important that we are able to talk openly and practically about what methods are appropriate and how we can shape the use of technology for social good in ways that align with our principles and aims. It seems that the doers are less interested in advocating for methods, even though they are the ones that are most capable of understanding the practicalities.

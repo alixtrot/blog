@@ -1,0 +1,40 @@
+This week I have been at a conference at the Harvard Kennedy School called 'The Future of Human RIghts: Technology and Fact-Finding in the 21st Century.' Seeing a series of presentations about the cutting edge of a variety of technology and data tools and practices as they can be applied to human rights documentation, I have several waves of sometimes conflicting perspectives. (It's not over yet, but this is starting to get too long :/) 
+
+**Choice and resources**
+In the course of this conference there have seen several impressive, in-depth looks at particular incidents that can demonstrate what is possible with data and technology in human rights documentation. We looked at Forensic Architecture's investigation and [triangulation of attacks in Gaza](http://www.forensic-architecture.org/case/rafah-black-friday/); painstaking DNA sequencing of the vicitms of the Srebenica massacre; network analysis of the thousands of [warring factions in Syria](https://d3svb6mundity5.cloudfront.net/dashboard/index.html); Amnesty's work uncovering [mass graves in Burundi](http://foreignpolicy.com/2016/01/28/satellite-images-point-finger-at-burundian-forces-in-mass-killing/). In each of these cases innovative methods were used to give context and conclusion about human rights violations. But there are opportunity costs and power in the decisions that we make about where we invest in telling these stories. 
+
+In-depth, bespoke use of technology and data to evaluate and advocate about particular cases requires an honest assessment of resources and the politics of choice. Why do we choose to invest in one case over another? Why do we reconstruct the events of Maidan, but not Raba'a? Who is included in those decisions? If we only focus on cases where there is potential legal or political accountability for the violations and funding, will we slowly, implicitly align our work with hegemonic forces?
+
+**Creativity Capacity**
+There was a small discussion about the means of production in using emerging methods for forensic work. A clear case was made that in principle and practice we must decentralise capacity to use technology. But what about the capacity for creativity? Many of the instituions represented at this conference were western, male, and white. These institutions are sufficiently resourced so they can not only operate and manage teams and projects. They can also test new methods, demonstrate possibilities in investigation and documentation, and shape the trajectory of new uses of tools in human rights work. If we consider decentralising technical capacity, how do we ensure that we do so to a degree that enables a decentralisation of creative exploration and innovation? How do we distribute not just the means of production, but the space for thought leadership and experimentation?
+
+**Sustainability**
+Because impact of social sector organisations does not necessarily generate resources for further research and development, it seems likely that entrenched power is better positioned to capitalise on new technologies over time. Currently, there is significant innovation coming out of the social sector to adopt these tools for documentation, evidence gathering, and reading realities of conflict and violations. But that social sector innovation can be taken up by companies whose motivations and decisions are unmoored from positive social change. And even if these innovations are not used directly to cause harm, will problem solving in the social sector drive analytical innovation and monetisation in the private sector? If so, what power and ownership will INGO retain to support their continued work - particularly INGOs that do not take funding from companies?
+
+This is part of the reason that I worry that the advancements of methods for monitoring rights violations and advocating for accountability will be outpaced by the use of these technologies for harm or further entrenching inequality and oppression. And if it doesn't lead to an intentionally harmful use of data and technology by companies, it might function to reduce our expectations for corporate accountability because they are participating in human rights interventions. In different words, are we providing inexpensive whitewashing opportunities by allowing companies to point to human rights examples of the use of their technology so they can side step critique of the use of their tools in other ways? This point was raised in the course of the conversation.
+
+**Affiliation, Irony, and Whitewashing**
+
+A significant portion of infrastructure in emerging technology is connected to government funded mechanisms and military application (think drones, DARPA, and Palantir). If we push what is possible in the social sector, we will encounter temptations and opportunities to collaborate with or patronise government service providers, government-funded initiatives, government entities, and other powerful actors. How do we develop transparent decision-making practices that ensure that our work is not undermined by the associations of the tools and methods we use? How can we ensure we don't cut off opportunities because we are too purist about our approaches and affiliations? What are the relationships between methods and lived experiences of communities - using drones for humanitarian work in Yemen is likely a terrible idea, but where do we draw the lines?
+
+**Advocating for Methods**
+The focus of the conference was on a convergence of fields - forensic science, remote sensing, and network analysis - and the emergence of new techniques that can push what is possible in the human rights field. And while the conversations about the possibilities of emerging methods for advocacy were specific and inspiring, there was little discussion about how we advocate for methods.  
+
+Using an example from the presentations of what's next: in the near future, it will be possible to acquire on-demand, real-time, low cost satellite imagery. While my mind is aflutter with potential positive uses of that emerging resource, the corporate and political interests that can be served by these tools are terrifying. 
+
+As an advocacy community, working on rights issues, it is important that we are able to talk openly and practically about what methods are appropriate and how we can shape the use of technology for social good in ways that align with our principles and aims. It seems that the doers are less interested in advocating for methods, even though they are the ones that are most capable of understanding the practicalities. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

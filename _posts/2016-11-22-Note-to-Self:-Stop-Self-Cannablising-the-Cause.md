@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+type: post
 ---
 For what it's worth, I feel less despondent about the election now, and my brain has started to work a little bit better. And I'm seeing some things more clearly. 
 

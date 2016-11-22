@@ -1,6 +1,7 @@
 ---
 published: true
 type: post
+layout: post
 ---
 For what it's worth, I feel less despondent about the election now, and my brain has started to work a little bit better. And I'm seeing some things more clearly. 
 
@@ -35,7 +36,3 @@ Call-out culture can make you feel good when you are on the right side of it. Te
 - I’m going to put more energy positively modeling what I want liberal movements to do, and spend less time articulating what I wish conservatives would do less of. 
 - I am going to work to develop a political vision that leans less on what I want to protect, and more we want to accomplish (I recognise that we are now in a uniquely defensive and challenging position with an autocrat rising to power in the US, but I think doing this will help galvanize to unseat him). 
 - I am going to stop describing or addressing demographies as monoliths (and yes, I realise the irony of writing to liberals in this post as though they are monolith :) ).
-
-
-
-

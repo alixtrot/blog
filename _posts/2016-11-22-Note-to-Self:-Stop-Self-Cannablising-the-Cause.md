@@ -12,10 +12,14 @@ There are many examples in the past years I could draw on, but for now I will pi
 ## Multiple choice quiz. Did I:
 
 A. Support this choice as a way of signalling in a post-election racially charged southern city that there are white men who are not Trump supporters - and push some of the white men he knows who are Trump supporters to confront ‘people like them’ that aren’t
+
 B. Ask him if and how this election feels different to him, why he chose the safety pin and what he thinks current times mean
+
 C. Support his choice as a way of showing minority and marginalised groups in his physical vicinity that they have an ally (who is well past 6-feet tall and 200 pounds)
 
-No, I didn’t choose any of those things. I chose D. to find an article about safety pins describing them as an insufficient gimmick to make white people feel better and 5 steps on how someone interested in trivial safety pins could become a legitimate ally.
+No, I didn’t choose any of those things. 
+
+I chose D. to find an article about safety pins describing them as an insufficient gimmick to make white people feel better and 5 steps on how someone interested in trivial safety pins could become a legitimate ally.
 
 And then...I didn’t send it.
 
